@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.Beans.Products;
 import com.Dao.productDao;
 
-
+//Controller
 @Controller
 public class productController {
 	
