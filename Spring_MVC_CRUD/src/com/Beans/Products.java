@@ -1,5 +1,6 @@
 package com.Beans;
 
+//Getters and Setters
 public class Products {
 	
 	private int id;
